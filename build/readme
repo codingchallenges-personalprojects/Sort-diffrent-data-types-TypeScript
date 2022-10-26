@@ -1,0 +1,9 @@
+1- ran tsc (name of the file) in terminal to compile the file.tsc
+
+2- (tsconfig.json) create the TS compiler file => tsc --init
+
+3- run npm init -y => generate a package.json file
+
+4- to run all the scripts at the same time => npm start
+
+

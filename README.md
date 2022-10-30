@@ -7,7 +7,7 @@ An app with TypeScrypt to sort different data types
 
 ### differences between Interfaces and Abstract Classes :
 #### Interfaces: 
-1- Sets up a contract between different classes <br/> 2- will use them when we have very different objects that we want to work together <br/> 3-Promotes loose coupling
+1- Sets up a contract between different classes <br/> 2- will use them when we have very different objects that we want to work together <br/> 3-Promotes loose coupling (allows us to get different classes to work togetherwithout a direct dependency between them)
 
 #### Abstract Classes/ Inheritance 
 1- Sets up a contract between different classes <br/> 2- Use when we are trying to build up a definition of an object <br/> 3- Strongly couples classes together

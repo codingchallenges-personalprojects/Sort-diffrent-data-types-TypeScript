@@ -1,4 +1,4 @@
-# Sort-TS
+# Sort different data types using abstract classes in TypeScript
 An app with TypeScrypt to sort different data types
 Implemented an Interface to be able to sort any kind of data. (In this case array, string and linked list).
 ### using abstract classes to :
